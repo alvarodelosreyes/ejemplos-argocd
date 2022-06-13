@@ -2,7 +2,7 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: index-html-configmap
-  namespace: nginx-test
+  namespace: nginx-automatico
 data:
   index.html: |
     <html>
