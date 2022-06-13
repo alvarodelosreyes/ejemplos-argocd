@@ -6,7 +6,7 @@ metadata:
 data:
   index.html: |
     <html>
-    <h1>Buenos días,</h1>
+    <h1>Buenos dias,</h1>
     </br>
-    <h1>Este nginx ha sido desplegado por argocd en el PASIR de Álvaro de los Reyes García</h1>
+    <h1>Este nginx ha sido desplegado por ArgoCD en el PASIR de Alvaro de los Reyes Garcia</h1>
     </html
